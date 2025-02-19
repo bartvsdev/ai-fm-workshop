@@ -1,2 +1,3 @@
-# ai-fm-workshop
-Template projects for various programming languages to be used during AI workshop
+# FM Group AI Workshop Templates
+
+This project contains several templates for developer environments in different programming languages to get you started during the AI workshop.
